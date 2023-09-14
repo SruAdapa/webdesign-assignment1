@@ -65,3 +65,5 @@ input - This tag specifies an input field where the user can enter data.
 tel - When tel is specified in hyperlink reference, it assumes the number written against it as a phone number.
 
 mailto - When mailto is specified in hyperlink reference, it assumes the text written against it as a mail id.
+
+Happy Reading!!!
