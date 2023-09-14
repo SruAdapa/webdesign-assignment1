@@ -20,7 +20,11 @@ Tags Used :
 
 header - It represents a container for introductory content or a set of navigational links.
 
+favicon - It is an image is displayed to the left of the page title in the browser tab
+
 nav - It is a defines a set of navigation links.
+
+a - It defines a hyperlink in HTML document. href is the important attribute which defines the link's destination.
 
 p - It defines a paragraph.
 
